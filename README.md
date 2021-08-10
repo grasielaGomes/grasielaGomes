@@ -1,5 +1,5 @@
 # Olá, me chamo Grasiela!  
-Sou Designer Gráfico com experiência em UI/UX e atualmente estou migrando carreira para Desenvolvimento Web Fullstack.
+Sou Designer Gráfico com experiência em UI/UX e atualmente estou agregando à carreira Desenvolvimento Web Fullstack.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=grasielaGomes&theme=radical&show_icons=true) 
 
