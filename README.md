@@ -3,7 +3,7 @@ I am a frontend software engineer and graphic designer.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=grasielaGomes&theme=radical&show_icons=true) 
 
-## Techs I use everyday
+## Techs I use every day
 
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](#) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](#) [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](#) 
 
