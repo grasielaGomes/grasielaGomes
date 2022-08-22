@@ -1,7 +1,5 @@
 # Hi, my name is Grasiela!  
-I am a frontend software engineer and graphic designer.
-
-![Stats](https://github-readme-stats.vercel.app/api?username=grasielaGomes&theme=radical&show_icons=true) 
+I am a frontend software engineer and product designer.
 
 ## Techs I use every day
 
