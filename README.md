@@ -1,6 +1,5 @@
 <img src="assets/banner.png" alt="Grasiela Gomes | Software Developer" width="100%" />
 
-<br />
 <p align="center">
   Design background. Engineering mindset. Building scalable things with care.
 </p>
