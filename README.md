@@ -1,9 +1,10 @@
 <img src="assets/banner.png" alt="Grasiela Gomes | Software Developer" width="100%" />
 
 <br />
-<p>
-  <strong>Software Developer</strong> • TypeScript • Clean Architecture • Lifelong Learner
+<p align="center">
+  Design background. Engineering mindset. Building scalable things with care.
 </p>
+<br />
 
 # Hi, my name is Grasiela!
 
