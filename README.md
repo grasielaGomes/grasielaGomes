@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Grasiela Gomes | Software Developer" width="100%" />
+<img src="assets/banner.png" alt="Grasiela Gomes | Software Developer" width="100%" />
 
 <br />
 <p>
