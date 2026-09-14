@@ -1,8 +1,6 @@
-# Grasiela Gomes
+### Grasiela Gomes
 
-<a href="https://github.com/bivium-app">
-  <img src="assets/founder-chip.svg" alt="Founder · Product · Engineering" height="28" />
-</a>
+<a href="https://github.com/bivium-app"><img src="assets/founder-chip.svg" alt="Founder · Product · Engineering" height="23" /></a>
 
 I build software that helps people see their financial reality more clearly — so they can choose next steps without losing sight of the life they want to sustain.
 
